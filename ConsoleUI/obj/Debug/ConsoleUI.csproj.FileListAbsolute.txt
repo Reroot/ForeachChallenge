@@ -1,0 +1,14 @@
+C:/Users/Tim/Source/Repos/ForeachChallenge/ConsoleUI/bin/Debug/ConsoleUI.exe.config
+C:/Users/Tim/Source/Repos/ForeachChallenge/ConsoleUI/bin/Debug/ConsoleUI.exe
+C:/Users/Tim/Source/Repos/ForeachChallenge/ConsoleUI/bin/Debug/ConsoleUI.pdb
+C:/Users/Tim/Source/Repos/ForeachChallenge/ConsoleUI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache
+C:/Users/Tim/Source/Repos/ForeachChallenge/ConsoleUI/obj/Debug/ConsoleUI.csproj.CoreCompileInputs.cache
+C:/Users/Tim/Source/Repos/ForeachChallenge/ConsoleUI/obj/Debug/ConsoleUI.exe
+C:/Users/Tim/Source/Repos/ForeachChallenge/ConsoleUI/obj/Debug/ConsoleUI.pdb
+/Users/proxy-hasix/Desktop/weeklyC#/ForeachChallengeSolutionSourceCode/ConsoleUI/bin/Debug/ConsoleUI.exe.config
+/Users/proxy-hasix/Desktop/weeklyC#/ForeachChallengeSolutionSourceCode/ConsoleUI/bin/Debug/ConsoleUI.exe
+/Users/proxy-hasix/Desktop/weeklyC#/ForeachChallengeSolutionSourceCode/ConsoleUI/bin/Debug/ConsoleUI.pdb
+/Users/proxy-hasix/Desktop/weeklyC#/ForeachChallengeSolutionSourceCode/ConsoleUI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache
+/Users/proxy-hasix/Desktop/weeklyC#/ForeachChallengeSolutionSourceCode/ConsoleUI/obj/Debug/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/proxy-hasix/Desktop/weeklyC#/ForeachChallengeSolutionSourceCode/ConsoleUI/obj/Debug/ConsoleUI.exe
+/Users/proxy-hasix/Desktop/weeklyC#/ForeachChallengeSolutionSourceCode/ConsoleUI/obj/Debug/ConsoleUI.pdb
